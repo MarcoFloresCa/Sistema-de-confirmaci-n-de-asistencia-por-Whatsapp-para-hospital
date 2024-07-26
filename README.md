@@ -13,23 +13,23 @@ Este proyecto permite enviar mensajes de confirmación de asistencia a través d
 
 ## Interfaz de Ingreso de Excel
 
-![]()
+![](https://github.com/MarcoFloresCa/Sistema-de-confirmaci-n-de-asistencia-por-Whatsapp-para-hospital/blob/master/dashboard/img/cargartabla.png)
 
 ## Pacientes Mal Ingresados
 
-![]()
+![](https://github.com/MarcoFloresCa/Sistema-de-confirmaci-n-de-asistencia-por-Whatsapp-para-hospital/blob/master/dashboard/img/erroneo.png)
 
 ## QR para Iniciar WhatsApp Web
 
-![]()
+![](https://github.com/MarcoFloresCa/Sistema-de-confirmaci-n-de-asistencia-por-Whatsapp-para-hospital/blob/master/dashboard/img/qr.png)
 
 ## Mensaje de Confirmación
 
-![]()
+![](https://github.com/MarcoFloresCa/Sistema-de-confirmaci-n-de-asistencia-por-Whatsapp-para-hospital/blob/master/dashboard/img/Mensaje.png)
 
 ## Estructura del Archivo Excel
 
-![]()
+![](https://github.com/MarcoFloresCa/Sistema-de-confirmaci-n-de-asistencia-por-Whatsapp-para-hospital/blob/master/dashboard/img/excel.png)
 
 ## Instalación
 
@@ -42,7 +42,7 @@ Asegúrate de tener **Node.js** instalado. Se recomienda usar **Node.js v18+**.
 1. Clona el repositorio:
 
     ```bash
-    git clone <>
+    git clone <https://github.com/MarcoFloresCa/Sistema-de-confirmaci-n-de-asistencia-por-Whatsapp-para-hospital.git>
     ```
 
 2. Navega a la carpeta `receptor`:
