@@ -1,23 +1,81 @@
-## EVITA ENVÍAR MUCHOS MENSAJES, SIN TOMAR MEDIDAS PUEDES SER BLOQUEADO POR WHATSAPP
+# Sistema de Confirmación de Asistencia por WhatsApp para Hospital
+
+Este proyecto permite enviar mensajes de confirmación de asistencia a través de WhatsApp utilizando una combinación de tecnologías y librerías. 
 
 ## Tecnologías Utilizadas
 
-- Node.js
-- `whatsapp-web.js` (https://github.com/pedroslopez/whatsapp-web.js.git) - Versión `2.2408.1`
-- `qrcode-terminal`
-- `fs`
-- `mysql`
-- Bootstrap SB Admin 2 v4.0.3
+- **Node.js**: Entorno de ejecución para JavaScript.
+- **[whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js.git)**: Librería para interactuar con WhatsApp Web. Versión `2.2408.1`.
+- **qrcode-terminal**: Librería para generar códigos QR en la terminal.
+- **fs**: Módulo de Node.js para manejar archivos del sistema.
+- **mysql**: Librería para interactuar con bases de datos MySQL.
+- **Bootstrap SB Admin 2 v4.0.3**: Plantilla de administración para el diseño.
 
-## Instala las dependencias para la carpeta receptor:
+## Interfaz de Ingreso de Excel
 
-cd receptor
-npm install
+![]()
 
-## Ejecuta el receptor.js
+## Pacientes Mal Ingresados
 
-node receptor.js
+![]()
 
-## Escanea el código qr y espera el envío de mensajes.
+## QR para Iniciar WhatsApp Web
 
-## EVITA ENVÍAR MUCHOS MENSAJES, SIN TOMAR MEDIDAS PUEDES SER BLOQUEADO POR WHATSAPP
+![]()
+
+## Mensaje de Confirmación
+
+![]()
+
+## Estructura del Archivo Excel
+
+![]()
+
+## Instalación
+
+### Requisitos Previos
+
+Asegúrate de tener **Node.js** instalado. Se recomienda usar **Node.js v18+**.
+
+### Instalación de Dependencias
+
+1. Clona el repositorio:
+
+    ```bash
+    git clone <>
+    ```
+
+2. Navega a la carpeta `receptor`:
+
+    ```bash
+    cd receptor
+    ```
+
+3. Instala las dependencias:
+
+    ```bash
+    npm install
+    ```
+
+4. Asegúrate de tener el archivo `somecloud.sql` cargado en tu base de datos MySQL.
+
+## Ejecución
+
+1. Ejecuta el script `receptor.js`:
+
+    ```bash
+    node receptor.js
+    ```
+
+2. Escanea el código QR generado en la terminal para conectar tu cuenta de WhatsApp.
+
+3. Espera a que se envíen los mensajes de confirmación.
+
+## Nota Importante
+
+**Evita enviar muchos mensajes sin tomar medidas apropiadas, ya que podrías ser bloqueado por WhatsApp.**
+
+## Recursos Adicionales
+
+- [Documentación de whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
+- [Documentación de Node.js](https://nodejs.org/)
