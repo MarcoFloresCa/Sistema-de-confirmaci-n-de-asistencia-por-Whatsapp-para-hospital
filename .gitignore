@@ -3,5 +3,3 @@ node_modules/
 
 # wweb.js
 .wwebjs_cache
-package.json
-package-lock.json
