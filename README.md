@@ -42,7 +42,7 @@ Asegúrate de tener **Node.js** instalado. Se recomienda usar **Node.js v18+**.
 1. Clona el repositorio:
 
     ```bash
-    git clone <https://github.com/MarcoFloresCa/Sistema-de-confirmaci-n-de-asistencia-por-Whatsapp-para-hospital.git>
+    git clone https://github.com/MarcoFloresCa/Sistema-de-confirmaci-n-de-asistencia-por-Whatsapp-para-hospital.git
     ```
 
 2. Navega a la carpeta `receptor`:
@@ -71,9 +71,8 @@ Asegúrate de tener **Node.js** instalado. Se recomienda usar **Node.js v18+**.
 
 3. Espera a que se envíen los mensajes de confirmación.
 
-## Nota Importante
-
-**Evita enviar muchos mensajes sin tomar medidas apropiadas, ya que podrías ser bloqueado por WhatsApp.**
+> [!IMPORTANT] **Ten en cuenta:**
+> **No enviar muchos mensajes sin tomar medidas apropiadas, ya que podrías ser bloqueado por WhatsApp.**
 
 ## Recursos Adicionales
 

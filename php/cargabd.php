@@ -13,7 +13,7 @@ if (isset($_POST["data"])) {
     if (!empty($data)) {
         // ID de usuario 
         $ID_Usuario = 1234;
-
+        
         // Obtener la fecha y hora actual en formato MySQL
         $fechaHoraActual = date('Y-m-d H:i:s');
 
